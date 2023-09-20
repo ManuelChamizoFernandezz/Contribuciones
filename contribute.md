@@ -1,0 +1,3 @@
+La forma más sencilla de contribuir con la página web es informar de un error detectado. 
+Introduce un título corto y, en el espacio para comentarios, indica la dirección web donde detectaste el problema, y añade una pequeña descripción del mismo. 
+Recuerda que puedes añadir imágenes, como capturas de pantalla, arrastrando la imagen sobre el editor
